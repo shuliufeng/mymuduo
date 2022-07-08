@@ -8,9 +8,9 @@
 5.	实现Channel、Poller、EventLoop、TcpServer、Buffer、TcpConnection等重要部分。
 
 ## 环境配置
-ubuntu18.04虚拟机配置
-win10 vscode链接虚拟机
-安装cmake、g++
+- ubuntu18.04虚拟机配置
+- win10 vscode链接虚拟机
+- 安装cmake、g++
 
 ## mymuduo库的安装
 ```bash
